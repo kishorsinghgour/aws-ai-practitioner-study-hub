@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/sitemap.xml
+Sitemap: https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/sitemap.txt

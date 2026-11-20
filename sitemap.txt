@@ -1,0 +1,12 @@
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/ai-ml-fundamentals/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/aws-managed-ai-services/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/sagemaker-ai-overview/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/generative-ai-fundamentals/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/bedrock-prompt-engineering/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/rag-customization-guardrails/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/agentic-ai-mcp-agentcore/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/foundation-model-evaluation/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/responsible-ai/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/ai-security-compliance-governance/
+https://kishorsinghgour.github.io/aws-ai-practitioner-study-hub/chapters/exam-strategy-cheat-sheet/
